@@ -1,33 +1,51 @@
 <div align="center">
-
-<img src="https://github.com/bruhnmedia.png" alt="BRUHN MEDIA Logo" width="128" />
-
-BRUHN MEDIA
-MADE TO WORK.
-
-Digitale Ideen. Klare Gestaltung. Praktische Lösungen.
-
-Website · Projekte auf GitHub · Kontakt
+  <img src="https://github.com/bruhnmedia.png" alt="BRUHN MEDIA Logo" width="112">
+  <h1>BRUHN MEDIA</h1>
+  <p><strong>MADE TO WORK.</strong></p>
+  <p>Websites · Digitale Inhalte · Praktische Tools</p>
+  <p>
+    <a href="https://www.bruhn-media.de/">Website</a> ·
+    <a href="https://github.com/bruhnmedia?tab=repositories">Projekte</a> ·
+    <a href="mailto:info@bruhn-media.de">Kontakt</a>
+  </p>
 </div>
 
-Über BRUHN MEDIA
-Ich entwickle digitale Lösungen, die nicht nur gut aussehen, sondern im Alltag funktionieren. Dazu gehören Webprojekte, digitale Inhalte und praktische Tools, die echte Aufgaben vereinfachen.
+---
 
-BRUHN MEDIA richtet sich an Unternehmen, Selbstständige, Influencer, Content Creator und Privatpersonen. Im Mittelpunkt stehen klare Kommunikation, durchdachte Bedienung und eine zuverlässige Umsetzung.
-Ausgewählte Projekte
-Projekt	Worum geht es?
-BRUHN MEDIA | LSS Tools	Ein Tampermonkey-Tools-Manager für Leitstellenspiel.de mit sieben einzeln aktivierbaren Modulen: BOS Ausbauplaner, Verbandsfreigabe, Fuhrpark-TÜV, Dashboard, Verbandsverwaltung, Kartensteuerung und Karten-Layouts.
-Reale BOS-Standorte Niedersachsen	Automatisiert aufbereitete OpenStreetMap-Standortdaten für Feuerwehr, Polizei, Rettungsdienst und weitere Organisationen in Niedersachsen.
+## Über BRUHN MEDIA
 
+Ich entwickle digitale Lösungen mit einem klaren Anspruch: **ansprechendes Design, einfache Bedienung und zuverlässige Funktion**.
 
-Tools Manager ausprobieren
-Tools Manager installieren · Funktionen & Screenshots ansehen
-Technologien & Arbeitsweise
-JavaScript · HTML · CSS · Python · GitHub Actions · OpenStreetMap
+BRUHN MEDIA unterstützt Unternehmen, Selbstständige, Influencer, Content Creator und Privatpersonen – von Webprojekten und digitalen Inhalten bis hin zu eigenen Software-Tools.
 
-Ich entwickle und teste Änderungen zunächst getrennt und dokumentiere neue Funktionen, bevor sie veröffentlicht werden. Bei den BRUHN-MEDIA-Tools stehen Bedienbarkeit und nachvollziehbare Ergebnisse im Vordergrund.
-Kontakt
-Du hast eine Projektidee oder eine Frage zu BRUHN MEDIA?
+## Ausgewählte Projekte
 
-www.bruhn-media.de · info@bruhn-media.de
+### [BRUHN MEDIA | LSS Tools](https://github.com/bruhnmedia/lss-tools-releases)
+
+Ein Tools Manager für [Leitstellenspiel.de](https://www.leitstellenspiel.de/) mit sieben einzeln aktivierbaren Modulen: **BOS Ausbauplaner, Verbandsfreigabe, Fuhrpark-TÜV, Dashboard, Verbandsverwaltung, Kartensteuerung und Karten-Layouts**.
+
+[**Tools Manager installieren**](https://raw.githubusercontent.com/bruhnmedia/lss-tools-releases/main/BRUHN_MEDIA_LSS_Tools_Manager.user.js) · [Funktionen und Screenshots ansehen](https://github.com/bruhnmedia/lss-tools-releases#screenshots-und-einblicke)
+
+<a href="https://github.com/bruhnmedia/lss-tools-releases#screenshots-und-einblicke">
+  <img src="https://raw.githubusercontent.com/bruhnmedia/lss-tools-releases/main/screenshots/appstore.webp" alt="BRUHN MEDIA LSS Tools – Appstore mit Modulen" width="660">
+</a>
+
+### [Reale BOS-Standorte Niedersachsen](https://github.com/bruhnmedia/lss-reale-standorte)
+
+Eine auf OpenStreetMap basierende Datenbank mit Standortinformationen für Feuerwehr, Polizei, Rettungsdienst und weitere Organisationen in Niedersachsen. Die Standortdaten unterstützen den BOS Ausbauplaner.
+
+## Technologien & Arbeitsweise
+
+`JavaScript` · `HTML` · `CSS` · `Python` · `GitHub Actions` · `OpenStreetMap`
+
+Neue Funktionen werden zunächst separat entwickelt und geprüft, bevor sie in öffentliche Releases übernommen werden.
+
+## Kontakt
+
+Du hast eine Idee, eine Frage oder möchtest ein Projekt besprechen?
+
+**[bruhn-media.de](https://www.bruhn-media.de/)** · **[info@bruhn-media.de](mailto:info@bruhn-media.de)**
+
+---
+
 <sub>© 2026 BRUHN MEDIA · Alle Rechte vorbehalten. Die LSS-Tools sind unabhängige Projekte ohne offizielle Verbindung zu Leitstellenspiel.de.</sub>
