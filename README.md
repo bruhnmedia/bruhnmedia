@@ -22,13 +22,15 @@ BRUHN MEDIA unterstützt Unternehmen, Selbstständige, Influencer, Content Creat
 
 ### [BRUHN MEDIA | LSS Tools](https://github.com/bruhnmedia/lss-tools-releases)
 
-Ein Tools Manager für [Leitstellenspiel.de](https://www.leitstellenspiel.de/) mit sieben einzeln aktivierbaren Modulen: **BOS Ausbauplaner, Verbandsfreigabe, Fuhrpark-TÜV, Dashboard, Verbandsverwaltung, Kartensteuerung und Karten-Layouts**.
+Ein Tools Manager für [Leitstellenspiel.de](https://www.leitstellenspiel.de/) mit **acht einzeln aktivierbaren Modulen**: **BOS Ausbauplaner, Verbandsfreigabe, Fuhrpark-TÜV, Dashboard, Verbandsverwaltung, Kartensteuerung, Karten-Layouts und Leitstellenstatus**.
 
 [**Tools Manager installieren**](https://raw.githubusercontent.com/bruhnmedia/lss-tools-releases/main/BRUHN_MEDIA_LSS_Tools_Manager.user.js) · [Funktionen und Screenshots ansehen](https://github.com/bruhnmedia/lss-tools-releases#screenshots-und-einblicke)
 
 <a href="https://github.com/bruhnmedia/lss-tools-releases#screenshots-und-einblicke">
   <img src="https://raw.githubusercontent.com/bruhnmedia/lss-tools-releases/main/screenshots/appstore.webp" alt="BRUHN MEDIA LSS Tools – Appstore mit Modulen" width="660">
 </a>
+
+<sub>Vorschau des Appstores aus einer früheren Version. Die aktuelle Version 1.4.0 enthält acht Module.</sub>
 
 ### [Reale BOS-Standorte Niedersachsen](https://github.com/bruhnmedia/lss-reale-standorte)
 
